@@ -11,4 +11,4 @@ const ara = (array) =>{
 
 
 
-console.log(ara(["Riaz", "Rishad", "Tafsir ", "Mehedi", "Hakim"]))git
+console.log(ara(["Riaz", "Rishad", "Tafsir ", "Mehedi", "Hakim"]))
